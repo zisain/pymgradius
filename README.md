@@ -1,0 +1,2 @@
+# pymgradius
+python脚本管理radius,需要先部署好freeradius跟mariadb
